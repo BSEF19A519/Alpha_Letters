@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Alpha_Letters</string>
+    <string name="alphabets_categories" />
+    <string name="s" />
+    <string name="g" />
+    <string name="r" />
+    <string name="ans" />
+    <string name="alphabets">Alphabets Categories</string>
+    <string name="sky">sky</string>
+    <string name="grass">grass</string>
+    <string name="root">root</string>
+    <string name="answer">answer</string>
+</resources>
